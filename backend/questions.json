@@ -1,0 +1,124 @@
+{
+  "Questions": [
+    {
+      "Type": "Offer",
+      "Question": "Have you identified a specific ideal client? (e.g. 'Instead of just 'business owners', do you specify 'e-commerce business owners'?)",
+      "Diagnosis": "You're missing out on targeted marketing, which can increase your conversions.",
+      "Solution": "Narrow down and specify your ideal client. The more targeted, the better."
+    },
+    {
+      "Type": "Offer",
+      "Question": "Can you clearly define the major challenges faced by your ideal client? (e.g. 'Instead of just 'challenges', can you specify 'inability to target their online ads effectively'?)",
+      "Diagnosis": "Without knowing their pain points, you can't offer effective solutions.",
+      "Solution": "Research and identify the top 3 challenges your ideal client faces."
+    },
+    {
+      "Type": "Offer",
+      "Question": "Have you articulated the exact outcome or benefit your client can expect? (e.g. 'Instead of 'better sales', do you offer '20% increase in online sales in 3 months'?)",
+      "Diagnosis": "You're not showing clear value.",
+      "Solution": "Offer specific, measurable outcomes your client can expect."
+    },
+    {
+      "Type": "Offer",
+      "Question": "Does your offer have distinct elements that competitors lack? (e.g. 'Do you provide 24/7 customer support when others don't?')",
+      "Diagnosis": "You're getting lost in the market noise.",
+      "Solution": "Differentiate your offer. It can be quality, price, support, or other unique aspects."
+    },
+    {
+      "Type": "Offer",
+      "Question": "Have you established a guarantee or safety net if the offer doesn't meet expectations? (e.g. 'Do you offer a 30-day money-back guarantee?')",
+      "Diagnosis": "Trust barriers can prevent conversions.",
+      "Solution": "Implement strong guarantees to increase trust and conversions."
+    },
+    {
+      "Type": "Copy",
+      "Question": "Do you have plans to A/B test different elements of your copy? (e.g. 'Are you testing two different headlines to see which performs better?')",
+      "Diagnosis": "You're not optimizing for conversions.",
+      "Solution": "Always A/B test your copy elements to refine and increase conversion rates."
+    },
+    {
+      "Type": "Copy",
+      "Question": "Is your main promise in your copy specific and bold? (e.g. 'Instead of 'improve sales', do you promise 'double your sales in 60 days'?)",
+      "Diagnosis": "Your promise is too weak to grab attention.",
+      "Solution": "Make a bold, specific promise to make your offer irresistible."
+    },
+    {
+      "Type": "Copy",
+      "Question": "Can you back up your main promise with concrete evidence? (e.g. 'Do you have data showing past clients achieved this outcome?')",
+      "Diagnosis": "There's a credibility gap in your offer.",
+      "Solution": "Always provide evidence or testimonials to back up your promises."
+    },
+    {
+      "Type": "Copy",
+      "Question": "Have you detailed what makes your service unique compared to competitors? (e.g. 'If your service is faster, do you specify '3x faster than leading competitors'?)",
+      "Diagnosis": "You're not differentiating yourself.",
+      "Solution": "Specify unique selling points that set you apart."
+    },
+    {
+      "Type": "Copy",
+      "Question": "Do you incorporate real client testimonials or case studies in your copy? (e.g. 'Do you showcase a testimonial from 'John D., a business owner who increased sales by 40% using your service'?)",
+      "Diagnosis": "You're missing trust elements.",
+      "Solution": "Incorporate testimonials and case studies to increase credibility and trust."
+    },
+    {
+      "Type": "Traffic",
+      "Question": "Have you determined specific interest groups or demographics to target? (e.g. 'Instead of targeting 'adults', are you targeting 'adult males, aged 30-40, interested in fitness'?)",
+      "Diagnosis": "You're burning ad budget on the wrong audience.",
+      "Solution": "Refine your target audience. Tailored ads lead to better conversions and ROI."
+    },
+    {
+      "Type": "Traffic",
+      "Question": "Are you familiar with your current CPA based on past campaigns? (e.g. 'Do you know it costs $25 on average to acquire a new customer using online ads?')",
+      "Diagnosis": "You're not tracking your ad spend effectiveness.",
+      "Solution": "Monitor your CPA regularly and adjust strategies to improve ROI."
+    },
+    {
+      "Type": "Traffic",
+      "Question": "Have you set a maximum acceptable CPA based on your profit margins? (e.g. 'If your average sale nets $100 profit, have you decided that $30 is the most you'll spend to acquire that sale?')",
+      "Diagnosis": "You risk overspending on customer acquisition.",
+      "Solution": "Set a maximum CPA based on your margins to ensure profitability."
+    },
+    {
+      "Type": "Traffic",
+      "Question": "Do you have a clear threshold or signal to scale up your ad budget? (e.g. 'If you achieve 5x ROI, will you then double your ad spend?')",
+      "Diagnosis": "You may be missing growth opportunities.",
+      "Solution": "Establish clear ROI thresholds to scale up or down your ad spend."
+    },
+    {
+      "Type": "Traffic",
+      "Question": "Have you set regular intervals to review and refine your ad strategy? (e.g. 'Do you analyze ad performance every Monday morning and make necessary adjustments?')",
+      "Diagnosis": "Your ad strategy may become outdated or ineffective.",
+      "Solution": "Regularly review and tweak your ad strategy based on performance data."
+    },
+    {
+      "Type": "Sales",
+      "Question": "Do you have a structured process to move leads through to sales? (e.g. 'Is there a clear sequence like 'Initial contact -> Product demo -> Follow-up email -> Sales call'?)",
+      "Diagnosis": "You're losing leads along the way.",
+      "Solution": "Develop a clear sales funnel or sequence to nurture and convert leads."
+    },
+    {
+      "Type": "Sales",
+      "Question": "Are you actively measuring how many leads convert to sales? (e.g. 'Do you know that for every 100 leads, 20 become paying customers?')",
+      "Diagnosis": "You're not tracking conversion rates.",
+      "Solution": "Monitor your conversion rates and adjust strategies to improve them."
+    },
+    {
+      "Type": "Sales",
+      "Question": "Have you established protocols for upselling or cross-selling during the sales process? (e.g. 'If a customer buys product A, are they introduced to the complementary product B?')",
+      "Diagnosis": "You're missing out on additional revenue opportunities.",
+      "Solution": "Implement upselling and cross-selling strategies to maximize revenue per customer."
+    },
+    {
+      "Type": "Sales",
+      "Question": "Are your sales teams or representatives trained regularly on new offerings or market changes? (e.g. 'If a new product is launched, is there a training session for the sales team?')",
+      "Diagnosis": "Your sales strategies may become outdated.",
+      "Solution": "Regularly update and train your sales team."
+    },
+    {
+      "Type": "Sales",
+      "Question": "Do you regularly solicit feedback from declined sales to improve your approach? (e.g. 'If someone decides not to buy, do you ask why?')",
+      "Diagnosis": "You're not learning from missed opportunities.",
+      "Solution": "Always solicit feedback from declined sales and adjust your sales strategies accordingly."
+    }
+  ]
+}

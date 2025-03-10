@@ -1,0 +1,48 @@
+<script>
+  var head = document.head;
+  var script = document.createElement("script");
+  script.type = "text/javascript";
+  script.src =
+    "https://188013.t.hyros.com/v1/lst/universal-script?ph=90302daa9704426056e9b5710ace5c7e53c883aa9e1ec5e363a7c3aa67de3fa0&tag=!clicked&ref_url=" +
+    encodeURI(document.URL);
+  head.appendChild(script);
+</script>
+
+<!-- Meta Pixel Code -->
+<script>
+  !(function (f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function () {
+      n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = "2.0";
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s);
+  })(
+    window,
+    document,
+    "script",
+    "https://connect.facebook.net/en_US/fbevents.js"
+  );
+  fbq("init", "284459933496431");
+  fbq("track", "PageView");
+</script>
+<noscript
+  ><img
+    height="1"
+    width="1"
+    style="display: none"
+    src="https://www.facebook.com/tr?id=284459933496431&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<script>
+  fbq("track", "Lead");
+</script>
